@@ -10,7 +10,6 @@ A simple **Subnet Calculator** in Python to calculate network details for any IP
 ## Files
 - `console_calculator.py`: Command-line version.
 - `gui_calculator.py`: Graphical version using Tkinter.
-- `requirements.txt`: Python dependencies (none required for built-in modules).
 
 ## Usage
 
